@@ -38,7 +38,7 @@
     "keycode": "^2.1.8",
     "local-storage-manager": "git://github.com/ejb/localStorageManager.git",
     "mousetrap": "^1.6.0",
-    "mustache": "^2.2.1",
+    "mustache": "^2.3.2",
     "preact": "^8.1.0",
     "progressor": "git://github.com/ejb/progressor.js.git",
     "progressor.js": "git://github.com/ejb/progressor.js.git",
